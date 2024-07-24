@@ -18,7 +18,7 @@ _GENERATION_MODELS = {
     "BloomForCausalLM": ("bloom", "BloomForCausalLM"),
     "ChameleonForConditionalGeneration":
     ("chameleon", "ChameleonForConditionalGeneration"),
-    "ChatGLMModel": ("chatglm", "ChatGLMForCausalLM"),
+    "ChatGLMModel": ("chatglm_vl", "ChatGLMModel"),
     "ChatGLMForConditionalGeneration": ("chatglm", "ChatGLMForCausalLM"),
     "CohereForCausalLM": ("commandr", "CohereForCausalLM"),
     "DbrxForCausalLM": ("dbrx", "DbrxForCausalLM"),
